@@ -2,3 +2,4 @@
   { "id": 1, "when": "2026-02-27 07:00", "text": "booting up the ME LOG test site.", "tags": ["test","start"] },
   { "id": 2, "when": "2026-02-27 07:05", "text": "idea: document projects as they happen. no pressure. just logs.", "tags": ["idea"] }
 ]
+  { "id": 3, "when": "2026-02-27 08:12", "text": "experimenting with posting workflow.", "tags": ["test"] },
