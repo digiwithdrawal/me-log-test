@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "first-post",
+    "when": "2026-02-27",
+    "title": "First Post",
+    "excerpt": "This is the first long-form post on the test site.",
+    "body": "This is the body. You can write longer here.\n\nAdd YouTube links in the youtube field.",
+    "youtube": ""
+  }
+]
